@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form-container {
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 1px 1px;
+}
+
+h4 {
+    margin-left: 3%;
+}
+
+form {
+    min-height: 120px;
+    padding: 3%;
+}
+
+.label {
+    width: 30%;
+    font-size: small;
+}
+
+.input,
+#category {
+    width: 65%;
+    float: right;
+}
+
+#addBtn {
+    margin-top: 2%;
+    float: right;
+}
